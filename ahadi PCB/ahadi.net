@@ -1,0 +1,55 @@
+# EESchema Netlist Version 1.1 created  lun 21 jul 2014 17:27:41 ART
+(
+ ( /53CD721D PIN_ARRAY_3X1 K1 CONN_3
+  ( 1 N-000005 )
+  ( 2 N-000006 )
+  ( 3 N-000008 )
+ )
+ ( /53CD7340 PIN_ARRAY_3X1 K2 CONN_3
+  ( 1 N-000005 )
+  ( 2 N-000003 )
+  ( 3 N-000002 )
+ )
+ ( /53CD7191 PIN_ARRAY_2X1 P1 CONN_2
+  ( 1 N-000005 )
+  ( 2 N-000006 )
+ )
+ ( /53CD71A4 PIN_ARRAY_2X1 P2 CONN_2
+  ( 1 N-000005 )
+  ( 2 N-000007 )
+ )
+ ( /53CD7336 PIN_ARRAY_2X1 P3 CONN_2
+  ( 1 N-000005 )
+  ( 2 N-000001 )
+ )
+ ( /53CD706D TO220_VERT Q1 BS107
+  ( 1 N-000005 )
+  ( 2 N-000008 )
+  ( 3 N-000009 )
+ )
+ ( /53CD7165 TO220_VERT Q2 BD139
+  ( 1 N-000006 )
+  ( 2 N-000007 )
+  ( 3 N-000009 )
+ )
+ ( /53CD7330 TO220_VERT Q3 BS107
+  ( 1 N-000005 )
+  ( 2 N-000002 )
+  ( 3 N-000004 )
+ )
+ ( /53CD733A TO220_VERT Q4 BD139
+  ( 1 N-000003 )
+  ( 2 N-000001 )
+  ( 3 N-000004 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component Q1
+ TO92*
+$endlist
+$component Q3
+ TO92*
+$endlist
+$endfootprintlist
+}
